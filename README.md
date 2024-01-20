@@ -8,7 +8,8 @@
 
 ## Table of Contents
 
-1. [**Secrete #1 - What is copy writing?**](/01-What-Is-Copy-Writing/README.md)
-2. [**Secrete #2 - One Man's Journey With Sales Copy**](/02-One-Man-Journey-With-Sales-Copy/README.md)
+1. [**What is copy writing?**](/01-What-Is-Copy-Writing/README.md)
+2. [**One Man's Journey With Sales Copy**](/02-One-Man-Journey-With-Sales-Copy/README.md)
 3. [**Without A Strong Why, People Don’t Buy**](/03-Without-A-Strong-Why-People-Dont%20-uy/README.md)
 4. [**Nobody Cares About You In Your Sales Copy**](/04-Nobody-Cares-About-You-In-Your-Sales-Copy/README.md)
+5. [**The Most Valuable Skill You'll Ever Learn**](/05-The-Most-Valuable-Skill-Youll-Ever-Learn/README.md)
