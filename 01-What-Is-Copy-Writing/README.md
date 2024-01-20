@@ -1,7 +1,6 @@
 # Secret #1 - What Is Copy Writing
 
-Sales copywriting is anything intended to persuade the right reader, viewer, or
-listener to take a specific action. - Jim Edwards
+> "Sales copywriting is anything intended to persuade the right reader, viewer, or listener to take a specific action." - Jim Edwards
 
 Whether online or offline, these specific actions you want them to take include clicking a link, making an inquiry for more information, buying something, or going on to the next step in your sales process like even liking a post, or sharing your post, or in short letting users take a specific action.
 
